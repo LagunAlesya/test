@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 tisting line
-=======
-Untesting
->>>>>>> 7d0c01301fa0614e5de5b11b677aa2915bdd0370
 
 456
 Add line
